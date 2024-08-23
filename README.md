@@ -4,11 +4,11 @@ This project involves creating a user-friendly Streamlit application that utiliz
 
 Technologies Used:
 
-### Python scripting
-### Data Collection
-### Streamlit
-### SQL
-### Plotly
+### * Python scripting
+### * Data Collection
+### * Streamlit
+### * SQL
+### * Plotly
 
 
 ## Approach:
